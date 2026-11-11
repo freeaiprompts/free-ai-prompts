@@ -1,0 +1,1451 @@
+{
+  "name": "Free AI Prompts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://freeaiprompts.net",
+  "count": 60,
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Christmas Family Photo by the Fireplace",
+      "slug": "christmas-family-photo-by-the-fireplace",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini",
+        "Midjourney"
+      ],
+      "prompt": "Transform the uploaded photo into a warm Christmas family portrait. Keep every person's face, hairstyle and identity exactly the same. Place [the family] on a cozy sofa in front of a crackling fireplace with stockings, a tall decorated Christmas tree with warm fairy lights and wrapped gifts. Everyone wears matching [red knitted Christmas sweaters]. Soft golden light, shallow depth of field, shot on an 85mm lens, photorealistic, magazine quality, 4:5.",
+      "description": "Turn any family photo into a cozy Christmas portrait with matching sweaters, a glowing tree and a crackling fireplace — faces stay the same.",
+      "tips": [
+        "Upload one clear, well-lit photo where all faces are visible.",
+        "Say \"keep faces exactly the same\" — it is the most important line.",
+        "Change the sweater colour to match your family style.",
+        "For pets, add \"and our dog sitting in front\"."
+      ],
+      "url": "https://freeaiprompts.net/prompt/christmas-family-photo-by-the-fireplace"
+    },
+    {
+      "id": 2,
+      "title": "Snowy Christmas Market Couple Portrait",
+      "slug": "snowy-christmas-market-couple-portrait",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney",
+        "Leonardo AI"
+      ],
+      "prompt": "Create a romantic winter portrait of [a couple] walking hand in hand through a snowy Christmas market at night, keep the faces from the uploaded photo unchanged. Wooden stalls with glowing string lights, gentle falling snow, steam from mugs of hot chocolate, cozy wool coats and scarves in [burgundy and cream]. Cinematic bokeh, 50mm, natural skin texture, ultra realistic, 4:5 vertical.",
+      "description": "A romantic night-time couple photo at a glowing Christmas market with falling snow and cinematic bokeh.",
+      "tips": [
+        "Use a photo where both of you look at the camera.",
+        "Add \"laughing\" or \"looking at each other\" for a candid feel.",
+        "For Midjourney add your photo as an image prompt and use --cref."
+      ],
+      "url": "https://freeaiprompts.net/prompt/snowy-christmas-market-couple-portrait"
+    },
+    {
+      "id": 3,
+      "title": "Christmas Pet Portrait with Santa Hat",
+      "slug": "christmas-pet-portrait-with-santa-hat",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Leonardo AI",
+        "Adobe Firefly"
+      ],
+      "prompt": "Turn my pet from the uploaded photo into an adorable Christmas portrait. Keep the exact breed, fur colour and markings. [My dog] wears a tiny red Santa hat and a knitted scarf, sitting next to a small decorated tree with presents and soft fairy lights. Warm studio lighting, sharp focus on the eyes, cute expression, professional pet photography, 4:5.",
+      "description": "Your dog or cat in a tiny Santa hat next to a little Christmas tree — the cutest holiday card photo.",
+      "tips": [
+        "Pick a photo where your pet's eyes are clearly visible.",
+        "Replace [My dog] with \"My cat\", \"My rabbit\" etc.",
+        "Ask for \"reindeer antlers\" instead of a Santa hat for a variation."
+      ],
+      "url": "https://freeaiprompts.net/prompt/christmas-pet-portrait-with-santa-hat"
+    },
+    {
+      "id": 4,
+      "title": "Personal Letter from Santa for Kids",
+      "slug": "personal-letter-from-santa-for-kids",
+      "type": "text",
+      "categories": [
+        "christmas",
+        "education"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ],
+      "prompt": "Write a magical letter from Santa Claus to [child's name], who is [age] years old and lives in [city]. Mention that Santa saw how they [a good thing they did this year] and that the elves loved their wish for [gift]. Add one gentle encouragement for next year about [something to improve]. Make it warm, funny and full of North Pole details (reindeer names, the workshop, cookies). About 200 words, simple words a child can read, signed \"Love, Santa\".",
+      "description": "Create a magical, personalised letter from Santa with your child’s name, age and good deeds — ready to print in seconds.",
+      "tips": [
+        "Fill in real details — that is what makes kids believe.",
+        "Print it on parchment-style paper for extra magic.",
+        "Ask for \"a version in rhymes\" for younger children."
+      ],
+      "url": "https://freeaiprompts.net/prompt/personal-letter-from-santa-for-kids"
+    },
+    {
+      "id": 5,
+      "title": "Christmas Card Messages for Anyone",
+      "slug": "christmas-card-messages-for-anyone",
+      "type": "text",
+      "categories": [
+        "christmas",
+        "social-media"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "DeepSeek"
+      ],
+      "prompt": "Write 5 different Christmas card messages for [recipient: e.g. my boss / grandma / best friend / clients]. Tone: [warm / funny / professional]. Each message 2–4 sentences, mention [one personal detail], avoid clichés like \"season's greetings\". Then give one short version (max 12 words) that fits on a gift tag.",
+      "description": "Five heartfelt, funny or professional Christmas card messages for family, friends, your boss or clients — plus a gift-tag version.",
+      "tips": [
+        "Generate separate sets for family, friends and work.",
+        "Ask for a version without religious wording for clients.",
+        "Add an inside joke as the personal detail."
+      ],
+      "url": "https://freeaiprompts.net/prompt/christmas-card-messages-for-anyone"
+    },
+    {
+      "id": 6,
+      "title": "New Year’s Eve Glam Party Portrait",
+      "slug": "new-year-s-eve-glam-party-portrait",
+      "type": "photo",
+      "categories": [
+        "new-year",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney",
+        "Ideogram"
+      ],
+      "prompt": "Create a glamorous New Year's Eve party portrait of the person in the uploaded photo, keeping the face 100% identical. [She/He] wears a [sparkly gold sequin dress / black velvet suit], holding a glass of champagne, gold and silver confetti falling, huge \"[2027]\" balloon numbers and a city skyline with fireworks through a window behind. Flash photography style, glossy, high fashion, vertical 4:5.",
+      "description": "Sequins, champagne, confetti and fireworks: a glossy New Year’s Eve portrait made from your own photo.",
+      "tips": [
+        "Change the year in the brackets to the coming year.",
+        "Ask for \"midnight countdown clock\" for extra drama.",
+        "Use a waist-up photo for the best outfit result."
+      ],
+      "url": "https://freeaiprompts.net/prompt/new-year-s-eve-glam-party-portrait"
+    },
+    {
+      "id": 7,
+      "title": "New Year Resolution Planner That Works",
+      "slug": "new-year-resolution-planner-that-works",
+      "type": "text",
+      "categories": [
+        "new-year",
+        "education"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "prompt": "Act as my personal life coach. Help me turn my New Year goals into a realistic 12-month plan. My goals: [goal 1], [goal 2], [goal 3]. I have about [hours] hours per week. For each goal: 1) make it specific and measurable, 2) split it into 4 quarterly milestones, 3) give 3 weekly habits, 4) predict the biggest obstacle and how to beat it. Finish with a one-page summary table I can print.",
+      "description": "Turn vague resolutions into a realistic 12-month plan with milestones, weekly habits and a printable summary.",
+      "tips": [
+        "Be honest about your free time — the plan adapts to it.",
+        "Ask it to \"check in with me\" monthly by saving the chat.",
+        "Add \"make it fun\" for gamified habits."
+      ],
+      "url": "https://freeaiprompts.net/prompt/new-year-resolution-planner-that-works"
+    },
+    {
+      "id": 8,
+      "title": "Thanksgiving Dinner Table Food Photo",
+      "slug": "thanksgiving-dinner-table-food-photo",
+      "type": "photo",
+      "categories": [
+        "holidays",
+        "business"
+      ],
+      "tools": [
+        "Midjourney",
+        "ChatGPT Images",
+        "Flux",
+        "Leonardo AI"
+      ],
+      "prompt": "Overhead food photography of a festive Thanksgiving dinner table for [8] people: golden roast turkey in the centre, mashed potatoes, cranberry sauce, roasted pumpkin, green beans, apple pie, autumn leaves and candles on a rustic wooden table, linen napkins, [warm amber] evening light, rich colours, editorial magazine style, ultra detailed, 3:2.",
+      "description": "A magazine-style overhead photo of a festive Thanksgiving feast — perfect for menus, blogs and social posts.",
+      "tips": [
+        "Swap turkey for a vegetarian centrepiece if you like.",
+        "Use it for restaurant menus, blog headers or social posts.",
+        "In Midjourney try --ar 3:2 --style raw for a natural look."
+      ],
+      "url": "https://freeaiprompts.net/prompt/thanksgiving-dinner-table-food-photo"
+    },
+    {
+      "id": 9,
+      "title": "Winter Wonderland Cinematic Drone Video",
+      "slug": "winter-wonderland-cinematic-drone-video",
+      "type": "video",
+      "categories": [
+        "video",
+        "christmas"
+      ],
+      "tools": [
+        "Sora",
+        "Veo",
+        "Kling",
+        "Runway",
+        "Grok Imagine"
+      ],
+      "prompt": "Cinematic 8-second video: a slow drone shot gliding over a tiny snow-covered alpine village at blue hour, warm lights glowing in wooden chalet windows, smoke rising from chimneys, a lit Christmas tree in the town square, gentle snowfall, the camera slowly pushes in towards [a cozy cabin with a red door]. Soft orchestral mood, shallow fog in the valley, 24fps, film grain, photorealistic, 16:9.",
+      "description": "A dreamy 8-second drone flight over a snowy Christmas village — ready for Sora, Veo, Kling and Runway.",
+      "tips": [
+        "Keep one camera move per clip — AI video handles it best.",
+        "For vertical Reels/TikTok change 16:9 to 9:16.",
+        "Generate 2–3 clips and join them in CapCut for a full intro."
+      ],
+      "url": "https://freeaiprompts.net/prompt/winter-wonderland-cinematic-drone-video"
+    },
+    {
+      "id": 10,
+      "title": "3D Action Figure of Yourself in a Toy Box",
+      "slug": "3d-action-figure-of-yourself-in-a-toy-box",
+      "type": "photo",
+      "categories": [
+        "trends",
+        "art"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Gemini"
+      ],
+      "prompt": "Create a realistic 3D action figure of the person in the uploaded photo, same face, inside a clear blister toy package. The figure stands on the left; on the right side of the package are accessories in their own slots: [a laptop, a coffee cup, headphones, a camera]. The cardboard backing is [teal and orange] with the name \"[YOUR NAME]\" in bold toy-brand letters and the subtitle \"[Content Creator Edition]\". Glossy plastic reflections, studio product lighting, collectible toy photography.",
+      "description": "The viral trend: turn your photo into a collectible action figure in blister packaging with your own accessories and name.",
+      "tips": [
+        "Choose 3–4 accessories that describe your job or hobby.",
+        "Short names look best on the package.",
+        "Ask for \"Barbie-style pink box\" or \"retro 80s box\" for variations."
+      ],
+      "url": "https://freeaiprompts.net/prompt/3d-action-figure-of-yourself-in-a-toy-box"
+    },
+    {
+      "id": 11,
+      "title": "Professional LinkedIn Headshot from a Selfie",
+      "slug": "professional-linkedin-headshot-from-a-selfie",
+      "type": "photo",
+      "categories": [
+        "portraits",
+        "career"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Leonardo AI",
+        "Adobe Firefly"
+      ],
+      "prompt": "Turn this selfie into a professional LinkedIn headshot. Keep my face, skin tone, hairstyle and features exactly the same — do not beautify or change identity. Head and shoulders, slight smile, looking at the camera, wearing a [navy blazer with a white shirt], soft studio lighting, clean [light grey] background with subtle gradient, sharp focus, natural skin texture, corporate photography, square 1:1.",
+      "description": "Get a clean, studio-quality business headshot from a simple selfie — without changing how you look.",
+      "tips": [
+        "Use a selfie taken in daylight, facing a window.",
+        "Remove glasses glare by saying \"no reflections on glasses\".",
+        "Make 3 versions with different blazer colours and pick the best."
+      ],
+      "url": "https://freeaiprompts.net/prompt/professional-linkedin-headshot-from-a-selfie"
+    },
+    {
+      "id": 12,
+      "title": "Hand-Painted Anime Scene from Your Photo",
+      "slug": "hand-painted-anime-scene-from-your-photo",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Midjourney",
+        "Leonardo AI"
+      ],
+      "prompt": "Redraw the uploaded photo as a hand-painted anime film still. Keep the same people, poses, clothing colours and composition. Soft watercolour backgrounds, gentle pastel colours, warm afternoon sunlight, fluffy clouds, delicate line art, expressive eyes, cozy nostalgic mood, detailed nature (grass, flowers, trees). No text, 16:9.",
+      "description": "Redraw any photo as a soft, nostalgic hand-painted anime still with watercolour skies and warm sunlight.",
+      "tips": [
+        "Photos outdoors or with pets give the most charming results.",
+        "Add \"rainy evening, glowing street lamps\" for a moody version.",
+        "Describe the style instead of naming a studio — it gives more stable results."
+      ],
+      "url": "https://freeaiprompts.net/prompt/hand-painted-anime-scene-from-your-photo"
+    },
+    {
+      "id": 13,
+      "title": "Vintage 90s Polaroid Photo Effect",
+      "slug": "vintage-90s-polaroid-photo-effect",
+      "type": "photo",
+      "categories": [
+        "trends",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Flux"
+      ],
+      "prompt": "Make the uploaded photo look like a real vintage 1990s Polaroid instant photo. Keep the people exactly the same. Slight flash glare, soft focus, faded warm colours, light film grain, a tiny light leak in the corner, white Polaroid frame with a handwritten caption \"[summer '98]\" in blue marker. Place the Polaroid on a [wooden table] with a few other photos scattered around.",
+      "description": "Give any photo the real 90s Polaroid look: flash glare, faded colours, film grain and a handwritten caption.",
+      "tips": [
+        "Works great with group photos with friends.",
+        "Change the caption to a date or inside joke.",
+        "Ask for \"taped to a fridge\" for a different scene."
+      ],
+      "url": "https://freeaiprompts.net/prompt/vintage-90s-polaroid-photo-effect"
+    },
+    {
+      "id": 14,
+      "title": "Product Photo for Your Online Store",
+      "slug": "product-photo-for-your-online-store",
+      "type": "photo",
+      "categories": [
+        "business"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Flux",
+        "Adobe Firefly",
+        "Midjourney"
+      ],
+      "prompt": "Professional e-commerce product photo of [product: e.g. a glass bottle of organic face serum] based on the uploaded photo — keep the exact product shape, label and logo. Place it on a [beige stone podium] with [dried flowers and soft shadows], clean minimal background in [warm sand colour], soft diffused studio light from the left, subtle reflection, high-end advertising style, ultra sharp, 1:1 for an online store.",
+      "description": "Turn a phone snapshot of your product into a high-end studio shot for Shopify, Etsy, Amazon or ads.",
+      "tips": [
+        "Photograph your product straight on with good light first.",
+        "Ask for a pure white background version for marketplaces like Amazon.",
+        "Make a 4:5 version for Instagram ads."
+      ],
+      "url": "https://freeaiprompts.net/prompt/product-photo-for-your-online-store"
+    },
+    {
+      "id": 15,
+      "title": "Minimal Modern Logo Design",
+      "slug": "minimal-modern-logo-design",
+      "type": "photo",
+      "categories": [
+        "design",
+        "business"
+      ],
+      "tools": [
+        "Ideogram",
+        "Midjourney",
+        "ChatGPT Images",
+        "Leonardo AI"
+      ],
+      "prompt": "Design a modern minimal logo for \"[Brand Name]\", a [type of business, e.g. specialty coffee shop]. Flat vector style, simple geometric icon that represents [idea: e.g. a coffee bean and a sunrise], clean sans-serif wordmark, [2] brand colours: [deep green and cream]. Centered on a white background, no gradients, no mockup, high contrast, scalable, suitable for an app icon and signage.",
+      "description": "Create clean, flat, professional logo ideas with your brand name in seconds — great with Ideogram and Midjourney.",
+      "tips": [
+        "Ideogram writes brand names most accurately.",
+        "Generate 8–12 options, then refine your favourite.",
+        "Ask for \"monochrome version\" to check it works in one colour."
+      ],
+      "url": "https://freeaiprompts.net/prompt/minimal-modern-logo-design"
+    },
+    {
+      "id": 16,
+      "title": "ATS-Friendly Resume Rewrite for Any Job",
+      "slug": "ats-friendly-resume-rewrite-for-any-job",
+      "type": "text",
+      "categories": [
+        "career"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ],
+      "prompt": "You are an expert recruiter and resume writer. Rewrite my resume for the job below so it passes ATS filters and impresses a human reader.\n\nJob title: [job title]\nJob description: [paste the job ad]\nMy current resume: [paste your resume]\n\nRules: keep everything truthful, use strong action verbs, add measurable results where my resume hints at them, mirror the important keywords from the job ad, max 1 page, simple formatting (no tables or columns). After the resume, list the 5 keywords you added and 3 questions I should prepare for the interview.",
+      "description": "Tailor your resume to a specific job ad with the right keywords, strong results and clean ATS-safe formatting.",
+      "tips": [
+        "Paste the full job ad — keywords come from it.",
+        "Run it once per job you apply for.",
+        "Ask for a matching cover letter in a second message."
+      ],
+      "url": "https://freeaiprompts.net/prompt/ats-friendly-resume-rewrite-for-any-job"
+    },
+    {
+      "id": 17,
+      "title": "Viral Instagram Caption Generator",
+      "slug": "viral-instagram-caption-generator",
+      "type": "text",
+      "categories": [
+        "social-media",
+        "business"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Grok",
+        "Meta AI"
+      ],
+      "prompt": "Write 10 Instagram captions for a post about [describe your photo or product]. My account is about [niche] and my audience is [audience]. Mix styles: 3 short and punchy, 3 storytelling, 2 funny, 2 with a question to boost comments. Each caption gets a strong first line (hook) and a clear call to action. Then suggest 15 relevant hashtags (5 big, 5 medium, 5 niche) and the best time to post.",
+      "description": "Get 10 scroll-stopping Instagram captions with hooks, calls to action and the right hashtags for your niche.",
+      "tips": [
+        "The more specific your niche, the better the hooks.",
+        "Ask for emoji-free versions for a premium brand.",
+        "Reuse the best caption for TikTok and Facebook."
+      ],
+      "url": "https://freeaiprompts.net/prompt/viral-instagram-caption-generator"
+    },
+    {
+      "id": 18,
+      "title": "60-Second YouTube Shorts & TikTok Script",
+      "slug": "60-second-youtube-shorts-tiktok-script",
+      "type": "text",
+      "categories": [
+        "social-media",
+        "video"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity"
+      ],
+      "prompt": "Write a 60-second YouTube Shorts / TikTok script about [topic] for [target audience]. Structure: 0–3s a shocking or curious hook, 3–45s three quick valuable points with examples, 45–55s a surprising twist or tip, 55–60s a call to follow. Write the spoken text in a natural, energetic voice, and add [ON SCREEN TEXT] and [B-ROLL] notes for each part. Also give 3 title ideas and a thumbnail text of max 4 words.",
+      "description": "A ready-to-film short video script with a strong hook, on-screen text, B-roll notes and title ideas.",
+      "tips": [
+        "Test the hook — if it doesn't make you curious, ask for 5 more.",
+        "Read it out loud and time it.",
+        "Ask for a long-form 8-minute version from the same idea."
+      ],
+      "url": "https://freeaiprompts.net/prompt/60-second-youtube-shorts-tiktok-script"
+    },
+    {
+      "id": 19,
+      "title": "Build a Full Landing Page with One Prompt",
+      "slug": "build-a-full-landing-page-with-one-prompt",
+      "type": "code",
+      "categories": [
+        "coding",
+        "business"
+      ],
+      "tools": [
+        "Codex",
+        "Claude Code",
+        "Cursor",
+        "GitHub Copilot",
+        "ChatGPT",
+        "Claude"
+      ],
+      "prompt": "Build a complete, responsive one-page landing page for [product/business name], which [what it does]. Use a single index.html file with Tailwind CSS from the CDN and a little vanilla JavaScript. Sections: sticky header with logo and CTA, hero with headline, subheadline and [primary colour] button, 3 feature cards with icons, how-it-works in 3 steps, testimonials, pricing with 3 plans, FAQ accordion, email signup form, footer. Make it accessible (alt texts, labels, good contrast), mobile-first, with smooth scroll and a dark mode toggle. Use realistic placeholder copy for my audience: [audience].",
+      "description": "Generate a responsive, accessible landing page with pricing, FAQ, signup form and dark mode — in one HTML file.",
+      "tips": [
+        "Claude Code and Codex can create the file directly in your project.",
+        "Ask \"now split it into components for React\" if you use a framework.",
+        "Paste your real texts later to replace the placeholders."
+      ],
+      "url": "https://freeaiprompts.net/prompt/build-a-full-landing-page-with-one-prompt"
+    },
+    {
+      "id": 20,
+      "title": "Explain Any Topic Like I’m 10 (3 Levels + Quiz)",
+      "slug": "explain-any-topic-like-i-m-10-3-levels-quiz",
+      "type": "text",
+      "categories": [
+        "education"
+      ],
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Perplexity",
+        "DeepSeek"
+      ],
+      "prompt": "Explain [topic] to me like I'm 10 years old. Use one everyday analogy, short sentences and no jargon. Then explain it again at a high-school level, and finally like I'm a university student, adding the correct technical terms. End with a 5-question quiz (with answers hidden at the bottom) so I can check that I really understood it.",
+      "description": "Understand anything fast: a simple analogy, then high-school and university explanations, plus a quick quiz.",
+      "tips": [
+        "Great for homework, exams and tricky work topics.",
+        "Ask for a diagram description or a mnemonic to remember it.",
+        "Use Perplexity if you need sources to cite."
+      ],
+      "url": "https://freeaiprompts.net/prompt/explain-any-topic-like-i-m-10-3-levels-quiz"
+    },
+    {
+      "id": 21,
+      "title": "Christmas Pajama Morning Portrait with Hot Cocoa",
+      "slug": "christmas-pajama-morning-portrait-with-hot-cocoa",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Transform the uploaded photo into a cozy Christmas morning portrait. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] sits in a big bed with fluffy white blankets, wearing [red and white plaid Christmas pajamas], holding a steaming mug of hot cocoa with marshmallows. Behind the bed: a small decorated Christmas tree, warm fairy lights on the wall and soft snow outside the window. Soft morning light, relaxed happy smile, shallow depth of field, photorealistic, magazine quality, 4:5 vertical.",
+      "description": "Wake up in a dreamy Christmas morning scene: matching pajamas, hot cocoa and twinkling lights — made from your own photo, with your face kept exactly the same.",
+      "tips": [
+        "Use a relaxed photo where you are smiling naturally.",
+        "Change the pajama colours to match your family set.",
+        "Add \"a cat sleeping on the blanket\" for extra cuteness.",
+        "Great as a Christmas Instagram story or profile picture."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 22,
+      "title": "Meet Santa Claus Photo for Kids",
+      "slug": "meet-santa-claus-photo-for-kids",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Create a magical photo of the child from the uploaded photo meeting Santa Claus. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The child] sits on Santa's lap in his cozy workshop, Santa has a real white beard, rosy cheeks and a red velvet suit, both laughing. Around them: wooden toys, wrapped presents, a glowing Christmas tree and [a small elf peeking from behind a shelf]. Warm golden candlelight, sense of wonder in the child's eyes, photorealistic, professional holiday photography, 4:5 vertical.",
+      "description": "Give your kids the Santa photo they will remember: sitting on Santa's lap in his magical workshop — their real face, no mall queue needed.",
+      "tips": [
+        "Use a clear photo where the child looks at the camera.",
+        "Add the child's name: \"a gift tag that says [name]\".",
+        "Try \"Santa reading a letter\" for a different pose.",
+        "Print it and put it in a Christmas card."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 23,
+      "title": "Christmas Gingerbread Baking Kitchen Portrait",
+      "slug": "christmas-gingerbread-baking-kitchen-portrait",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Leonardo AI"
+      ],
+      "prompt": "Turn the uploaded photo into a warm Christmas baking scene. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] stands in a rustic kitchen decorating gingerbread cookies with white icing, wearing [a cream knitted sweater and a red apron], a little flour on the cheek. On the wooden table: gingerbread men, cookie cutters, cinnamon sticks, oranges and candles. Fairy lights and pine branches in the background, steam from a teapot, golden evening light, candid laughing moment, photorealistic, 4:5 vertical.",
+      "description": "A candid, cozy Christmas baking photo with gingerbread, icing and fairy lights — perfect for holiday posts and family cards.",
+      "tips": [
+        "A candid, laughing photo gives the most natural result.",
+        "Swap gingerbread for \"Christmas sugar cookies\" or \"a yule log cake\".",
+        "Add kids: \"baking together with two children\".",
+        "Use 1:1 for Instagram feed posts."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 24,
+      "title": "Christmas Tree Lights Bokeh Portrait",
+      "slug": "christmas-tree-lights-bokeh-portrait",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Create a dreamy close-up Christmas portrait from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] stands in front of a huge glowing Christmas tree, holding a string of warm fairy lights near the face, the lights reflecting softly in the eyes. Background: beautiful round golden bokeh from thousands of tiny lights. Wearing [a soft white turtleneck], natural makeup, gentle smile, shot on 85mm f/1.4, cinematic warm colour grading, ultra realistic skin texture, 4:5 vertical.",
+      "description": "The classic glowing fairy-light portrait photographers charge for — magical golden bokeh and warm Christmas light, made from your own photo.",
+      "tips": [
+        "Choose a close-up photo of your face.",
+        "Ask for \"cool blue lights\" for a winter mood.",
+        "Midjourney: add --style raw for natural skin.",
+        "Perfect as a profile picture for December."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 25,
+      "title": "Snow Globe Miniature of Yourself",
+      "slug": "snow-globe-miniature-of-yourself",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "trends"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Gemini"
+      ],
+      "prompt": "Place the person from the uploaded photo inside a glass Christmas snow globe as a tiny realistic miniature figure. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. The figure stands in a little snowy village square with a lit Christmas tree, tiny houses and a street lamp, wearing [a red winter coat and scarf]. Glitter snow floating inside the glass, the globe sits on [a wooden shelf] next to candles and pine branches. Macro product photography, shallow depth of field, warm reflections on the glass, photorealistic, 4:5.",
+      "description": "See yourself as a tiny figure inside a magical Christmas snow globe — one of the cutest viral AI trends of the season.",
+      "tips": [
+        "Full-body photos work best for the miniature.",
+        "Add your pet: \"with a tiny dog next to the figure\".",
+        "Try a family version with \"all people as tiny figures\".",
+        "Write a name on the base: \"engraved base that says [name]\"."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 26,
+      "title": "Funny Ugly Christmas Sweater Portrait",
+      "slug": "funny-ugly-christmas-sweater-portrait",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "trends"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Turn the uploaded photo into a hilarious ugly Christmas sweater portrait. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] wears an over-the-top knitted sweater covered in [3D reindeer, pom-poms and blinking lights], a tinsel scarf and a headband with jingle bells, making a playful proud expression with a thumbs up. Bright festive living-room background with a slightly messy Christmas tree and wrapped presents. On-camera flash, vibrant colours, funny party photo style, photorealistic, 4:5 vertical.",
+      "description": "The ugliest, funniest Christmas sweater ever — on you. Perfect for office parties, group chats and holiday memes.",
+      "tips": [
+        "A funny expression in your original photo makes it even better.",
+        "Replace the sweater design with your hobby, e.g. \"cats playing guitar\".",
+        "Make a team version for the office party.",
+        "Post it as a before/after carousel."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 27,
+      "title": "Santa's Sleigh Ride Across the Night Sky",
+      "slug": "santa-s-sleigh-ride-across-the-night-sky",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "art"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Create a magical Christmas photo of the person from the uploaded photo riding in Santa's sleigh across the night sky. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] sits next to Santa, wrapped in a warm red blanket, laughing with arms raised, pulled by reindeer with a glowing red nose in front. Below: a snowy town full of lights, above: a huge full moon and stars, snow sparkling in the air. Cinematic wide shot, magical glow, high detail, photorealistic fantasy, [4:5 vertical].",
+      "description": "Fly over a sparkling snowy town in Santa's sleigh under a giant moon — a magical Christmas fantasy photo starring you.",
+      "tips": [
+        "Works great for kids and grandparents too.",
+        "Change to 16:9 for a Christmas desktop wallpaper.",
+        "Add \"holding a bag of gifts\" for more story.",
+        "Turn it into a Christmas card cover."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 28,
+      "title": "Frosted Window Winter Portrait",
+      "slug": "frosted-window-winter-portrait",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Leonardo AI"
+      ],
+      "prompt": "Create a cinematic winter portrait from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] is photographed from outside through a frosted window with ice patterns on the edges, looking out at the falling snow, holding [a cup of tea] with both hands. Inside: warm orange light from a lamp and a Christmas tree glowing softly behind. Cool blue snow outside, warm light inside, reflections on the glass, dreamy calm mood, shot on 50mm, photorealistic, 4:5 vertical.",
+      "description": "A calm, cinematic portrait through a frosted window — snow outside, warm Christmas light inside. Pure winter mood.",
+      "tips": [
+        "Thoughtful, looking-away photos fit this mood best.",
+        "Try \"night, city lights outside\" for a different feel.",
+        "Add \"a cat on the windowsill\".",
+        "Great for winter blog and Pinterest covers."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 29,
+      "title": "New Year's Eve Fireworks Rooftop Portrait",
+      "slug": "new-year-s-eve-fireworks-rooftop-portrait",
+      "type": "photo",
+      "categories": [
+        "new-year",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Create a stunning New Year's Eve portrait from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] stands on a rooftop terrace at midnight wearing [an elegant black outfit], looking over the shoulder at the camera with a confident smile, while giant colourful fireworks explode over [a city skyline] behind. Warm string lights on the terrace, light haze, reflections on a wet floor, cinematic night photography, sharp focus on the face, photorealistic, 4:5 vertical.",
+      "description": "Count down in style: a cinematic midnight portrait on a rooftop with huge fireworks over the city — made from your photo.",
+      "tips": [
+        "Replace [a city skyline] with your own city, e.g. Paris or Dubai.",
+        "Use a waist-up photo for the best outfit.",
+        "Try \"holding sparklers\" for extra light.",
+        "Post it at midnight for maximum likes."
+      ],
+      "url": "https://freeaiprompts.net/category/new-year"
+    },
+    {
+      "id": 30,
+      "title": "2027 Gold Balloon Studio Photoshoot",
+      "slug": "2027-gold-balloon-studio-photoshoot",
+      "type": "photo",
+      "categories": [
+        "new-year",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Ideogram"
+      ],
+      "prompt": "Turn the uploaded photo into a glamorous New Year studio photoshoot. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] poses with huge shiny gold foil balloon numbers \"[2027]\", wearing [a sparkly silver outfit], with gold confetti falling and a few champagne glasses on a small table. Clean [champagne-beige] studio backdrop, professional softbox lighting, glossy fashion-magazine look, playful pose, ultra sharp, photorealistic, 4:5 vertical.",
+      "description": "The trending New Year photoshoot with giant gold balloon numbers and confetti — studio quality, no studio needed.",
+      "tips": [
+        "Change [2027] to any number for birthdays and anniversaries.",
+        "Ideogram and ChatGPT Images render the numbers most cleanly.",
+        "Try a black backdrop for a luxury look.",
+        "Use the same prompt for a family shoot."
+      ],
+      "url": "https://freeaiprompts.net/category/new-year"
+    },
+    {
+      "id": 31,
+      "title": "New Year Champagne Toast Close-Up",
+      "slug": "new-year-champagne-toast-close-up",
+      "type": "photo",
+      "categories": [
+        "new-year",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Flux"
+      ],
+      "prompt": "Create a festive New Year's Eve close-up portrait from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] raises a glass of champagne towards the camera in a toast, bubbles sparkling, laughing joyfully, wearing [a black velvet blazer]. Background: a busy party with warm golden bokeh lights, streamers and a clock showing almost midnight. Shallow depth of field, focus on the face and glass, flash plus ambient light, celebratory mood, photorealistic, 4:5 vertical.",
+      "description": "Cheers to the new year! A joyful champagne-toast close-up with golden party lights — ideal for your New Year greeting post.",
+      "tips": [
+        "A laughing photo makes the toast feel real.",
+        "Change champagne to \"sparkling juice\" for a kid-friendly version.",
+        "Add \"Happy New Year\" text with ChatGPT Images.",
+        "Use it as your New Year story."
+      ],
+      "url": "https://freeaiprompts.net/category/new-year"
+    },
+    {
+      "id": 32,
+      "title": "Chinese New Year Red Lantern Portrait",
+      "slug": "chinese-new-year-red-lantern-portrait",
+      "type": "photo",
+      "categories": [
+        "new-year",
+        "holidays",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Transform the uploaded photo into an elegant Chinese New Year portrait. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] wears [a red silk qipao with gold embroidery], standing in a traditional courtyard decorated with hundreds of glowing red lanterns, plum blossoms and gold paper decorations. Soft evening light, lanterns reflecting warm red and gold on the face, holding a small red envelope, graceful smile, cinematic, high detail, photorealistic, 4:5 vertical.",
+      "description": "Celebrate Lunar New Year with a glowing red-lantern portrait — silk, gold and plum blossoms in a traditional courtyard.",
+      "tips": [
+        "For men, write \"a red and gold Tang suit\".",
+        "Add \"Year of the Goat\" decorations for 2027.",
+        "Great for greeting posts in February.",
+        "Use 3:4 for Xiaohongshu (RED)."
+      ],
+      "url": "https://freeaiprompts.net/category/new-year"
+    },
+    {
+      "id": 33,
+      "title": "Cozy Winter Cabin Coffee Portrait",
+      "slug": "cozy-winter-cabin-coffee-portrait",
+      "type": "photo",
+      "categories": [
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Leonardo AI"
+      ],
+      "prompt": "Create a cozy winter lifestyle portrait from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] sits by a large window in a wooden mountain cabin, wrapped in [a chunky knitted blanket], holding a ceramic coffee mug, with snowy pine forest and mountains outside. A crackling fireplace and a stack of books nearby, warm soft light, calm content expression, film photography look, natural colours, photorealistic, 4:5 vertical.",
+      "description": "Slow winter vibes: a calm cabin portrait with coffee, a fireplace and snowy mountains outside your window.",
+      "tips": [
+        "Relaxed, looking-away photos fit best.",
+        "Add \"a sleeping dog by the fireplace\".",
+        "Change to \"Scandinavian minimalist cabin\" for a modern look.",
+        "Great for Pinterest winter-aesthetic boards."
+      ],
+      "url": "https://freeaiprompts.net/category/portraits"
+    },
+    {
+      "id": 34,
+      "title": "Ice Skating Rink Candid Winter Portrait",
+      "slug": "ice-skating-rink-candid-winter-portrait",
+      "type": "photo",
+      "categories": [
+        "portraits",
+        "christmas"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Flux"
+      ],
+      "prompt": "Turn the uploaded photo into a candid winter photo at an outdoor ice skating rink. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] glides on the ice laughing, wearing [a white puffer jacket, a pastel knitted beanie and mittens], cheeks slightly pink from the cold. Background: a big Christmas tree, string lights over the rink, other skaters blurred, snowflakes falling. Shot with a 70-200mm lens, motion feeling, golden-hour winter light, photorealistic, 4:5 vertical.",
+      "description": "A joyful, candid ice-skating photo under Christmas lights — looks like a real photographer caught the moment.",
+      "tips": [
+        "Full-body or waist-up photos work best.",
+        "Try famous rinks: \"Rockefeller Center\" or \"Vienna Christmas market\".",
+        "Add a partner: \"skating hand in hand\".",
+        "Perfect for a December carousel post."
+      ],
+      "url": "https://freeaiprompts.net/category/portraits"
+    },
+    {
+      "id": 35,
+      "title": "Ski Resort Winter Selfie Photo",
+      "slug": "ski-resort-winter-selfie-photo",
+      "type": "photo",
+      "categories": [
+        "portraits",
+        "trends"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Create a realistic ski holiday selfie from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] takes a selfie on a snowy mountain top at a ski resort, ski goggles pushed up on [a colourful ski helmet], wearing [a bright ski jacket], big smile. Behind: sunny blue sky, snow-covered peaks, a ski lift and other skiers small in the distance. Bright alpine sunlight, slight lens flare, natural smartphone front-camera look, crisp details, photorealistic, 4:5 vertical.",
+      "description": "Your ski-trip selfie from the top of the Alps — sunshine, snowy peaks and goggles on the helmet, no plane ticket needed.",
+      "tips": [
+        "A normal selfie works best for this one.",
+        "Name a resort: \"Zermatt with the Matterhorn behind\".",
+        "Try \"snowboard on the shoulder\".",
+        "Use 9:16 for stories."
+      ],
+      "url": "https://freeaiprompts.net/category/portraits"
+    },
+    {
+      "id": 36,
+      "title": "Old Money Aesthetic Portrait",
+      "slug": "old-money-aesthetic-portrait",
+      "type": "photo",
+      "categories": [
+        "portraits",
+        "trends"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Transform the uploaded photo into an \"old money\" aesthetic portrait. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] wears [a cream cable-knit sweater over a crisp white collared shirt], minimal gold jewellery, perfectly neat hair, standing on the terrace of a classic European country estate with green hedges and a vintage car in the background. Soft overcast daylight, muted neutral colours, quiet luxury, timeless editorial fashion photography, photorealistic, 4:5 vertical.",
+      "description": "Quiet luxury, timeless style: the viral \"old money\" portrait with a country estate, neutral tones and classic fashion.",
+      "tips": [
+        "Change the setting to \"a sailing yacht\" or \"a polo field\".",
+        "For men: \"navy blazer, loafers, no logos\".",
+        "Keep colours neutral for the real old-money feel.",
+        "Perfect for LinkedIn-meets-Instagram posts."
+      ],
+      "url": "https://freeaiprompts.net/category/portraits"
+    },
+    {
+      "id": 37,
+      "title": "1950s Hollywood Glamour Portrait",
+      "slug": "1950s-hollywood-glamour-portrait",
+      "type": "photo",
+      "categories": [
+        "portraits",
+        "art"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Turn the uploaded photo into a classic 1950s Hollywood glamour portrait. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] is styled like a golden-age movie star with [soft vintage waves and red lipstick], wearing a satin evening outfit and pearl earrings, posing elegantly against a dark backdrop. Dramatic Hollywood studio lighting with a soft glow, slight film grain, black and white with deep contrast, timeless, studio photograph, photorealistic, 4:5 vertical.",
+      "description": "Become a golden-age movie star: dramatic 1950s Hollywood lighting, vintage waves and timeless black-and-white glamour.",
+      "tips": [
+        "For men: \"slicked-back hair and a tuxedo\".",
+        "Remove \"black and white\" for a vintage Technicolor look.",
+        "Print it large — it looks like a real studio portrait.",
+        "Great gift for parents and grandparents."
+      ],
+      "url": "https://freeaiprompts.net/category/portraits"
+    },
+    {
+      "id": 38,
+      "title": "Renaissance Oil Painting of Yourself",
+      "slug": "renaissance-oil-painting-of-yourself",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Midjourney"
+      ],
+      "prompt": "Repaint the person from the uploaded photo as a Renaissance oil painting. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] wears [rich velvet clothing with a lace collar and gold details], seated in a dark palace interior with heavy curtains, holding [a small book], posed like a noble portrait from the 1500s. Visible oil brush strokes, warm chiaroscuro lighting, cracked old varnish texture, ornate gold frame around the painting, museum-quality fine art, 4:5 vertical.",
+      "description": "Become a noble from the 1500s: a museum-quality Renaissance oil painting of you, complete with gold frame and old varnish.",
+      "tips": [
+        "Replace [a small book] with your pet for a funny twist.",
+        "Try \"Dutch Golden Age\" for a different classic style.",
+        "Print it on canvas as a gift.",
+        "Works great with grandparents' photos."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 39,
+      "title": "3D Animated Movie Character of Yourself",
+      "slug": "3d-animated-movie-character-of-yourself",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Gemini"
+      ],
+      "prompt": "Transform the person from the uploaded photo into a 3D animated movie character. Keep the person recognisable: same hairstyle, hair colour, eye colour, skin tone and key facial features, in a cute stylised 3D animation style with big expressive eyes and soft rounded shapes. [The person] wears the same outfit as in the photo and stands in [a colourful cozy bedroom]. Soft cinematic lighting, subsurface skin shading, high detail, family animated film still, 4:5 vertical.",
+      "description": "See yourself as the star of an animated family movie — cute 3D style, big expressive eyes, still clearly you.",
+      "tips": [
+        "Clear front-facing photos give the most recognisable character.",
+        "Change the scene to your job, e.g. \"in a coffee shop behind the counter\".",
+        "Make the whole family as characters.",
+        "Great as a profile picture."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 40,
+      "title": "Thanksgiving Autumn Family Portrait",
+      "slug": "thanksgiving-autumn-family-portrait",
+      "type": "photo",
+      "categories": [
+        "holidays",
+        "portraits"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Create a warm Thanksgiving family portrait from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo for every person. [The family] sits together on a porch decorated with pumpkins, hay bales, autumn wreaths and warm string lights, wearing [cozy autumn sweaters in rust, mustard and cream], hugging and laughing. Golden-hour sunlight through orange and red autumn trees, falling leaves, professional family photography, natural poses, photorealistic, 4:5 vertical.",
+      "description": "The perfect Thanksgiving family photo: pumpkins, golden autumn light and matching cozy sweaters — without booking a photographer.",
+      "tips": [
+        "Upload one photo where everyone's face is visible.",
+        "Add the dog: \"and our golden retriever\".",
+        "Use as a Thanksgiving card or invitation.",
+        "Make a horizontal 3:2 version for Facebook."
+      ],
+      "url": "https://freeaiprompts.net/category/holidays"
+    },
+    {
+      "id": 41,
+      "title": "You as a Museum Wax Figure Exhibit",
+      "slug": "you-as-a-museum-wax-figure-exhibit",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Turn the person from the uploaded photo into a hyper-realistic wax figure on display in a famous museum. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo, but with the slightly glossy, perfect skin of a wax figure. The figure stands on a small round platform behind a red velvet rope, wearing [a smart casual outfit], with a brass plaque in front reading \"[YOUR NAME] – Legend of [2026]\". Visitors in the foreground take phone photos, spotlights from above, marble museum hall, photorealistic, 4:5 vertical.",
+      "description": "Get immortalised in wax! See yourself as a museum wax figure with a velvet rope, spotlights, a golden name plaque — and fans taking photos.",
+      "tips": [
+        "Short names look best on the plaque.",
+        "Change the subtitle to your job, e.g. \"Legend of Coffee\".",
+        "Funny poses make it even more shareable.",
+        "Post it as a before/after carousel."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 42,
+      "title": "Giant Hand Holding a Tiny Version of You",
+      "slug": "giant-hand-holding-a-tiny-version-of-you",
+      "type": "photo",
+      "categories": [
+        "trends",
+        "art"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Create a surreal, realistic photo: the person from the uploaded photo holds a tiny, fully detailed miniature version of themselves (about 10 cm tall) in the palm of their hand. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo for both the big and the tiny person. The tiny figure [waves happily and sits on the thumb], wearing the same outfit. The big person looks at it with a surprised smile. Natural daylight in [a cozy café], shallow depth of field, focus on the hand and the miniature, photorealistic, 4:5 vertical.",
+      "description": "Meet mini-you! A surreal but realistic photo of you holding a tiny version of yourself in your palm — guaranteed double-takes.",
+      "tips": [
+        "A waist-up photo with visible hands works best.",
+        "Make the tiny you do something funny, like drinking from your coffee cup.",
+        "Try \"tiny me sleeping in my shirt pocket\".",
+        "Great for reels with a zoom-in."
+      ],
+      "url": "https://freeaiprompts.net/category/trends"
+    },
+    {
+      "id": 43,
+      "title": "Layered Paper-Cut Shadow Box Portrait",
+      "slug": "layered-paper-cut-shadow-box-portrait",
+      "type": "photo",
+      "categories": [
+        "art",
+        "design"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Midjourney"
+      ],
+      "prompt": "Recreate the person from the uploaded photo as a handmade layered paper-cut shadow box artwork. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo. Twelve layers of cut paper in [soft pastel blues and pinks] create depth: the person's portrait in the front layers, behind them [their favourite city skyline], clouds and a moon in the back layers. Tiny warm LED lights between the layers cast soft shadows. Photographed straight on inside a deep white wooden frame, crisp paper edges, craft photography, 4:5 vertical.",
+      "description": "Your portrait as a glowing layered paper-cut shadow box — a handmade-looking artwork that makes a stunning gift idea.",
+      "tips": [
+        "Choose colours that match your room.",
+        "Replace the skyline with a beach, mountains or your hometown.",
+        "Make a couple version for anniversaries.",
+        "Print it and frame it as a gift."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 44,
+      "title": "Your Portrait on a Vintage Postage Stamp",
+      "slug": "your-portrait-on-a-vintage-postage-stamp",
+      "type": "photo",
+      "categories": [
+        "art",
+        "design"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Ideogram",
+        "Nano Banana"
+      ],
+      "prompt": "Turn the person from the uploaded photo into a classic engraved vintage postage stamp. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo. Fine line engraving style in [deep teal ink] on cream paper, oval portrait frame with decorative ornaments, perforated stamp edges, the text \"[YOUR COUNTRY]\" at the top and the value \"[50]\" in the corner, a light postmark stamped across one corner. Macro photo of the single stamp lying on an old letter envelope, soft daylight, high detail, 4:5.",
+      "description": "Become a stamp! A detailed engraved vintage postage stamp with your portrait, perforated edges and a real postmark look.",
+      "tips": [
+        "Invent a fun country name, e.g. \"Republic of Coffee\".",
+        "ChatGPT Images and Ideogram handle the small text best.",
+        "Make a series of 4 stamps in different ink colours.",
+        "Use it as a unique profile picture."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 45,
+      "title": "Your Day as a 4-Panel Comic Strip",
+      "slug": "your-day-as-a-4-panel-comic-strip",
+      "type": "photo",
+      "categories": [
+        "art",
+        "social-media"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Gemini"
+      ],
+      "prompt": "Turn the person from the uploaded photo into the main character of a funny 4-panel comic strip. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, drawn in a clean colourful comic style. Panel 1: waking up late, hair messy. Panel 2: running for [the bus] with coffee. Panel 3: [a big work presentation] going wrong. Panel 4: relaxing on the sofa at night with a happy face. Short speech bubbles in each panel, bold outlines, bright flat colours, clear readable text, square 1:1.",
+      "description": "Your daily life, but as a funny 4-panel comic starring you — perfect for Instagram carousels and making friends laugh.",
+      "tips": [
+        "Replace the panels with your real day for relatable posts.",
+        "ChatGPT Images writes the speech bubbles best.",
+        "Ask for \"manga style\" or \"newspaper comic style\".",
+        "Post each panel as a slide."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 46,
+      "title": "Holographic Trading Card of Yourself",
+      "slug": "holographic-trading-card-of-yourself",
+      "type": "photo",
+      "categories": [
+        "trends",
+        "career"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Ideogram"
+      ],
+      "prompt": "Create a holographic collectible trading card featuring the person from the uploaded photo. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. Dynamic heroic pose, the card has a shiny rainbow holographic foil border, the name \"[YOUR NAME]\" at the top, the type \"[Coffee-Powered Designer]\" and three stat bars below: [Creativity 98, Focus 72, Snacks 100]. Rare-card gold star in the corner. The card is held in a hand above a desk, light reflecting on the foil, macro photography, photorealistic, 4:5.",
+      "description": "Become a rare collectible! A shiny holographic trading card of you with your own title and funny stats about your life or job.",
+      "tips": [
+        "Use your job or hobby as the card type.",
+        "Make cards for your whole team — great for office fun.",
+        "Funny stats get the most shares.",
+        "Keep text short so it renders cleanly."
+      ],
+      "url": "https://freeaiprompts.net/category/trends"
+    },
+    {
+      "id": 47,
+      "title": "You on a Retro Cereal Box Cover",
+      "slug": "you-on-a-retro-cereal-box-cover",
+      "type": "photo",
+      "categories": [
+        "trends",
+        "business"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Ideogram",
+        "Nano Banana"
+      ],
+      "prompt": "Put the person from the uploaded photo on the front of a colourful retro 1990s breakfast cereal box as the mascot. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo, with a big cheesy smile and a thumbs up, wearing [a bright tracksuit]. The cereal is called \"[CRUNCHY YOU]\" in bold bubbly letters, with a bowl of colourful cereal and milk splash in front, a \"free toy inside\" badge and cartoon stars. The box stands on a kitchen counter in morning light, product photography, photorealistic, 4:5.",
+      "description": "Become the mascot of your own retro breakfast cereal — bubbly logo, milk splash and a \"free toy inside\" badge. Pure 90s fun.",
+      "tips": [
+        "Use your name in the cereal title, e.g. \"Crunchy Nina\".",
+        "Great as a funny birthday gift idea.",
+        "Ask for \"healthy granola\" for a modern version.",
+        "For brands: put your product mascot on the box."
+      ],
+      "url": "https://freeaiprompts.net/category/trends"
+    },
+    {
+      "id": 48,
+      "title": "Embroidery Hoop Thread Portrait",
+      "slug": "embroidery-hoop-thread-portrait",
+      "type": "photo",
+      "categories": [
+        "art",
+        "design"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Leonardo AI"
+      ],
+      "prompt": "Recreate the person from the uploaded photo as a detailed hand-embroidered portrait stitched with colourful thread inside a wooden embroidery hoop. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo. Visible satin stitches and French knots, hair made of [warm brown] thread, [small embroidered flowers] around the portrait, on natural linen fabric. The hoop lies on a wooden table with spools of thread, scissors and a needle nearby. Soft window light, macro craft photography, photorealistic textures, 1:1.",
+      "description": "Your portrait stitched in thread! A cozy hand-embroidered hoop artwork with visible stitches, flowers and linen texture.",
+      "tips": [
+        "Simple, clear portraits translate best into thread.",
+        "Add your pet next to you in the hoop.",
+        "Try \"cross-stitch pixel style\" for a retro look.",
+        "Lovely as a Mother's Day or anniversary gift idea."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 49,
+      "title": "Crochet Doll Version of Yourself",
+      "slug": "crochet-doll-version-of-yourself",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Gemini"
+      ],
+      "prompt": "Turn the person from the uploaded photo into a cute handmade crochet amigurumi doll. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo: same hairstyle and hair colour made of yarn, same outfit colours, tiny embroidered eyes and rosy cheeks. The doll sits on [a stack of books] next to a ball of yarn and a crochet hook, with [a tiny crochet coffee cup] in its hands. Visible yarn stitches, soft cozy daylight, close-up product photography, photorealistic, 4:5 vertical.",
+      "description": "Meet your yarn twin! A super cute crochet amigurumi doll of you with your hairstyle, outfit colours and a tiny accessory.",
+      "tips": [
+        "Bright outfit colours make the doll more fun.",
+        "Add your pet as a tiny crochet animal.",
+        "Change the accessory to your hobby (guitar, laptop, football).",
+        "Crocheters: use it as a pattern idea."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 50,
+      "title": "Your Pet as the Office CEO",
+      "slug": "your-pet-as-the-office-ceo",
+      "type": "photo",
+      "categories": [
+        "trends",
+        "business"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Turn the pet from the uploaded photo into the serious CEO of a big company. Keep the exact breed, fur colour and markings. The pet sits upright in a large leather office chair behind a huge desk, wearing [a tiny navy suit and red tie], with [reading glasses] on the nose, a nameplate saying \"CEO\", a laptop, coffee and stacks of papers. Glass office with a city skyline behind, professional corporate portrait lighting, very serious expression, photorealistic, 4:5 vertical.",
+      "description": "Who's the boss? Your dog or cat as a very serious CEO in a glass office — the funniest pet photo you'll post this year.",
+      "tips": [
+        "Pets looking straight at the camera work best.",
+        "Add the pet's name to the nameplate.",
+        "Try other jobs: chef, pilot, judge, astronaut.",
+        "Make a \"meet the team\" post with all your pets."
+      ],
+      "url": "https://freeaiprompts.net/category/trends"
+    },
+    {
+      "id": 51,
+      "title": "See Yourself at 80 Years Old",
+      "slug": "see-yourself-at-80-years-old",
+      "type": "photo",
+      "categories": [
+        "portraits",
+        "trends"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Show the person from the uploaded photo realistically aged to [80 years old]. Keep the same identity, face shape, eye colour and features so they are clearly recognisable, adding natural wrinkles, grey hair, age spots and kind laugh lines. The older person sits in [a sunny garden with roses], wearing a cozy cardigan, smiling warmly, holding a cup of tea. Soft natural light, honest documentary portrait style, photorealistic, 4:5 vertical.",
+      "description": "What will you look like at 80? A realistic, warm aging portrait that keeps you recognisable — emotional and fascinating.",
+      "tips": [
+        "Use a front-facing photo with neutral lighting.",
+        "Try 60 or 100 years for a series.",
+        "Make a couple version: \"growing old together\".",
+        "Post it side by side with your current photo."
+      ],
+      "url": "https://freeaiprompts.net/category/portraits"
+    },
+    {
+      "id": 52,
+      "title": "Your Bestselling Novel Book Cover",
+      "slug": "your-bestselling-novel-book-cover",
+      "type": "photo",
+      "categories": [
+        "design",
+        "art"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Ideogram",
+        "Midjourney"
+      ],
+      "prompt": "Design a bestselling novel cover starring the person from the uploaded photo as the main character. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. Genre: [mystery thriller]. The person stands in [a foggy old town street at night] looking over the shoulder, dramatic cinematic lighting. Big elegant title \"[THE LAST LETTER]\" and the author name \"[YOUR NAME]\" at the bottom, a small \"#1 Bestseller\" badge. Show the hardcover book standing on a bookstore shelf, photorealistic, 2:3 vertical.",
+      "description": "Star in your own bestseller! A professional novel cover with you as the hero, your title and your name as the author.",
+      "tips": [
+        "Change the genre: romance, fantasy, sci-fi, cookbook.",
+        "Use ChatGPT Images or Ideogram for clean title text.",
+        "Great for authors to test cover ideas.",
+        "Make a series for a fun book-club post."
+      ],
+      "url": "https://freeaiprompts.net/category/design"
+    },
+    {
+      "id": 53,
+      "title": "Glowing Neon Sign Portrait",
+      "slug": "glowing-neon-sign-portrait",
+      "type": "photo",
+      "categories": [
+        "design",
+        "art"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Midjourney",
+        "Ideogram"
+      ],
+      "prompt": "Turn the person from the uploaded photo into a glowing neon sign portrait. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, drawn with continuous bent glass neon tubes in [hot pink and electric blue], simple elegant line-art style, with the word \"[DREAM BIG]\" in neon handwriting below. The sign hangs on a dark red brick wall in a moody bar, neon glow reflecting on the bricks, slight haze, night photography, photorealistic, 4:5 vertical.",
+      "description": "Your face in glowing neon! A line-art neon sign portrait on a brick wall with your own word or name — perfect for profile pics.",
+      "tips": [
+        "Side-profile photos make beautiful neon line art.",
+        "Change the word to your name or brand.",
+        "Try \"warm white neon\" for an elegant look.",
+        "Businesses: great for café or salon signage ideas."
+      ],
+      "url": "https://freeaiprompts.net/category/design"
+    },
+    {
+      "id": 54,
+      "title": "Double Exposure Portrait with Your Hometown",
+      "slug": "double-exposure-portrait-with-your-hometown",
+      "type": "photo",
+      "categories": [
+        "art",
+        "portraits"
+      ],
+      "tools": [
+        "Midjourney",
+        "ChatGPT Images",
+        "Nano Banana"
+      ],
+      "prompt": "Create an artistic double exposure portrait of the person from the uploaded photo blended with [their hometown skyline]. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo. The side profile silhouette of the person is filled with the city streets, landmarks, lights and [a sunset sky], fading softly into a clean white background at the edges. Elegant, emotional, fine art photography, subtle film grain, high detail, 4:5 vertical.",
+      "description": "A meaningful fine-art portrait where your profile melts into your hometown skyline — a beautiful wall print or farewell gift.",
+      "tips": [
+        "Side-profile photos create the best double exposure.",
+        "Use your hometown, favourite city or a forest.",
+        "Try black and white for a classic print.",
+        "Perfect gift for someone moving abroad."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 55,
+      "title": "Your Face in Latte Art Foam",
+      "slug": "your-face-in-latte-art-foam",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Flux"
+      ],
+      "prompt": "Create a realistic photo of a cappuccino where the milk foam shows a detailed latte art portrait of the person from the uploaded photo. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, drawn with milk foam and cocoa powder like a barista masterpiece. The cup sits on [a marble café table] next to a small cookie, a hand holding a spoon at the edge of the frame. Top-down close-up, soft morning light, steam rising, photorealistic food photography, 1:1.",
+      "description": "The barista made your portrait! A realistic cappuccino with your face drawn in milk foam — the coolest coffee photo ever.",
+      "tips": [
+        "Simple, high-contrast portraits work best in foam.",
+        "Add \"cocoa powder heart\" around the portrait.",
+        "Great idea for cafés to promote custom latte art.",
+        "Post it with \"guess who's in my coffee\"."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 56,
+      "title": "Giant Sand Sculpture of Yourself on the Beach",
+      "slug": "giant-sand-sculpture-of-yourself-on-the-beach",
+      "type": "photo",
+      "categories": [
+        "art",
+        "trends"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Create a realistic photo of a huge, incredibly detailed sand sculpture of the person from the uploaded photo on a sunny beach. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, carved from wet golden sand with fine details in the hair and clothes, about 3 metres tall, with the name \"[YOUR NAME]\" carved into the sand base. Tourists taking photos nearby, [turquoise sea] and blue sky behind, bright summer sunlight, photorealistic, 4:5 vertical.",
+      "description": "A 3-metre sand sculpture of you on a sunny beach, with your name carved in the base — summer vibes all year long.",
+      "tips": [
+        "Clear front-facing photos give the most detailed sculpture.",
+        "Make a winter twist: \"giant snow sculpture\".",
+        "Add your partner or family to the sculpture.",
+        "Use it for a summer countdown post."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    },
+    {
+      "id": 57,
+      "title": "Hand-Painted Christmas Ornament Portrait",
+      "slug": "hand-painted-christmas-ornament-portrait",
+      "type": "photo",
+      "categories": [
+        "christmas",
+        "art"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Nano Banana",
+        "Gemini"
+      ],
+      "prompt": "Create a photo of a glass Christmas bauble hanging on a decorated tree, with a hand-painted portrait of the person from the uploaded photo on it. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, painted in delicate [traditional folk-art style] with tiny snowflakes and holly around the face, the name \"[YOUR NAME]\" and \"[2026]\" in gold script below. Warm fairy lights and other ornaments blurred around it, glossy reflections on the glass, macro photography, photorealistic, 4:5.",
+      "description": "Your portrait hand-painted on a glass Christmas bauble with your name and the year — a magical keepsake-style holiday photo.",
+      "tips": [
+        "Make one ornament for each family member.",
+        "Use a baby photo for a \"Baby's First Christmas\" ornament.",
+        "Try \"watercolour style\" for a softer look.",
+        "Small shops: a great idea for custom ornament orders."
+      ],
+      "url": "https://freeaiprompts.net/category/christmas"
+    },
+    {
+      "id": 58,
+      "title": "Ice Sculpture of Yourself at a Winter Festival",
+      "slug": "ice-sculpture-of-yourself-at-a-winter-festival",
+      "type": "photo",
+      "categories": [
+        "new-year",
+        "art"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Midjourney"
+      ],
+      "prompt": "Create a realistic night photo of a life-size crystal-clear ice sculpture of the person from the uploaded photo at a winter ice festival. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, carved from transparent ice with fine details, lit from inside with [shifting blue and violet LED lights]. Snow on the ground, other glowing ice sculptures and [New Year fireworks] in the dark sky behind, visitors in winter coats admiring it. Long exposure night photography, magical, photorealistic, 4:5 vertical.",
+      "description": "Frozen in time: a glowing life-size ice sculpture of you at a winter festival, lit in blue and violet under New Year fireworks.",
+      "tips": [
+        "Full-body photos make the most impressive sculptures.",
+        "Change the lights to warm gold for an elegant look.",
+        "Try a couple pose for Valentine's Day.",
+        "Great for a New Year's countdown post."
+      ],
+      "url": "https://freeaiprompts.net/category/new-year"
+    },
+    {
+      "id": 59,
+      "title": "You as the TV Weather Presenter",
+      "slug": "you-as-the-tv-weather-presenter",
+      "type": "photo",
+      "categories": [
+        "social-media",
+        "career"
+      ],
+      "tools": [
+        "Nano Banana",
+        "ChatGPT Images",
+        "Gemini"
+      ],
+      "prompt": "Turn the person from the uploaded photo into a TV weather presenter live on the evening news. Keep the face, skin tone, eyes and hairstyle exactly the same as in the uploaded photo. [The person] stands in a modern TV studio pointing at a big weather map of [your country] full of snow and sun icons, wearing [a smart blue suit], with a lower-third banner on screen: \"[YOUR NAME] – Weather\". Studio lights, camera framing like a real broadcast screenshot, slight screen glow, photorealistic, 16:9.",
+      "description": "Breaking news: you're the weather presenter! A realistic TV broadcast screenshot with your name in the banner and a snowy forecast.",
+      "tips": [
+        "Change the forecast to a joke, e.g. \"100% chance of pizza\".",
+        "Make the map your own city.",
+        "Perfect for April Fools or birthday posts.",
+        "Try \"sports reporter\" or \"news anchor\" too."
+      ],
+      "url": "https://freeaiprompts.net/category/social-media"
+    },
+    {
+      "id": 60,
+      "title": "Stained Glass Window Portrait",
+      "slug": "stained-glass-window-portrait",
+      "type": "photo",
+      "categories": [
+        "art",
+        "christmas"
+      ],
+      "tools": [
+        "ChatGPT Images",
+        "Midjourney",
+        "Nano Banana"
+      ],
+      "prompt": "Recreate the person from the uploaded photo as a stunning stained glass window. Keep the person recognisable: same face shape, eyes, hairstyle, hair colour and key features as in the uploaded photo, made of hundreds of pieces of coloured glass joined with dark lead lines, in [deep red, gold and royal blue] with a decorative border of [stars and winter branches]. The window sits in an old stone arch, bright sunlight shining through and casting colourful light patterns on the floor. Wide shot, rich colours, high detail, photorealistic, 3:4 vertical.",
+      "description": "Your portrait as a glowing stained glass window in an old stone arch — rich colours, lead lines and sunlight pouring through.",
+      "tips": [
+        "Simple portraits with clear shapes work best.",
+        "Change the border to flowers for a spring version.",
+        "Try a modern colourful version: \"Tiffany lamp style\".",
+        "Beautiful as a phone wallpaper."
+      ],
+      "url": "https://freeaiprompts.net/category/art"
+    }
+  ]
+}
